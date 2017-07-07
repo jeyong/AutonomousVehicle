@@ -5,6 +5,8 @@
   * NVIDIA CUDA® Deep Neural Network
 * Caffe
   * ...
+* DIGITS
+  * ..
 * pooling
   * ..
 * Sigmoid
@@ -13,4 +15,14 @@
   * ..
 * Softmax
   * ..
+* Gradient
+  * ..
+* drop-in integration
+  * ..
+* ReLU
+  * ..
+* YOLO
+  * ..
+* DSO
+  * visual odometry algorithm
 * 
